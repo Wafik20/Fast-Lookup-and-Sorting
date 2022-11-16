@@ -7,7 +7,7 @@ a file of sorted keys in the same format as the input file. The hash-map support
 opertions, and also a monitor function that calculates the number of empty locations in the hash-map, and the 
 longest chain.
 
-## Installation:
+## Installation
 First you need to clone or download the project.
 
 ![sc2](https://user-images.githubusercontent.com/73697128/202071025-59a22098-512d-4b55-ab96-a97787ebf66f.jpg)
@@ -16,7 +16,7 @@ Before running the project you need to set the directory of the target text file
 ```c++
 const string filePath = "[your file path]";
 ```
-## Note:
+## Note
 The target text file should have a similar structure to "keys.txt" and "output.txt", which looks something like this:
 ```txt
 14425
@@ -34,7 +34,7 @@ The target text file should have a similar structure to "keys.txt" and "output.t
 .
 ```
 Now you can run the project and it should run succesfully.
-## Usage:
+## Usage
 When you compile the project the main menu will appear
 
 ![screenshot1](https://user-images.githubusercontent.com/73697128/202068215-7f3121a2-6401-4020-a65c-36a6b8009adc.jpg)
