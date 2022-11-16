@@ -92,10 +92,6 @@ Pressing 5- output a string that checks the longest chain in the hashmap, and th
 bucket with the max chain is at index 4403 and has 4 elements         |
 69% of locations have 1 or more elements                              |
 ----------------------------------------------------------------------
-.
-.
-.
-.
 ```
 
 
