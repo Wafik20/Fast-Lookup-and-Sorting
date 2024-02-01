@@ -1,4 +1,4 @@
-## Hashmap-Array: Storing large integers with lookup in O(1), and sorting in O(n) 
+## Hashmap-Array: Storing large integers with fast lookup and sorting. 
 This project takes a file of 6-8 digit integers, unsorted, and stores them in an array of key-value
 pairs where each key has a value of 10*key. We implement a hash-map with chaining to store the keys and values.
 However, since values might get very large, we save memory resources by only storing a key and a corrosponding
