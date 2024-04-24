@@ -1,6 +1,4 @@
 //Written By: Wafik Aboualim
-//Main Project, Section C
-//CS-312 Introduction to Algorithms
 //11/6/2022
 /*
 Description: This project takes a file of 6-digit integers, unsorted, and stores them in an array of key-value
