@@ -1,6 +1,4 @@
 //Written By: Wafik Aboualim
-//Main Project, Section C
-//CS-312 Introduction to Algorithms
 //11/6/2022
 #include "radixSort.h"
 /*
